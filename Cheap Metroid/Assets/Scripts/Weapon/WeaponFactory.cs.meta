@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d1402e16b0244674a9e5ef9327cf4996
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - BaseBeam: {fileID: 11400000, guid: 543a94eccd799b34f8bd81547eabea39, type: 2}
+  - IceBeam: {instanceID: 0}
+  - ChargeBeam: {instanceID: 0}
+  - WaveBeam: {instanceID: 0}
+  - SpaiserBeam: {instanceID: 0}
+  - PlasmaBeam: {instanceID: 0}
+  - beamPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
